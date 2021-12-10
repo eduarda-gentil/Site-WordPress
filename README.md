@@ -1,6 +1,6 @@
 # Site-WordPress
 
-Link para download do arquivo para o plugin all-in-one WP migration: https://mega.nz/file/t9BSTbZY#-QNKN5ulWPMpjtPai9UW1G7-uiTSmgmw158YVLfh3ak
+Link para download do arquivo para o plugin all-in-one WP migration: https://mega.nz/file/ZpYjzKbb#y6wgkmYLXvq30vCDBDS_LJQk22FkkhRpo_kkT1C957U
 
 
 Seção #1 - HOME - Menu, redes sociais e onde me apresento.
