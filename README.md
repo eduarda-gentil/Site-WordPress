@@ -3,7 +3,7 @@
 Link para download do arquivo para o plugin all-in-one WP migration: https://mega.nz/file/t9BSTbZY#-QNKN5ulWPMpjtPai9UW1G7-uiTSmgmw158YVLfh3ak
 
 
-Seção #1 - HOME - Menu e onde me apresento.
+Seção #1 - HOME - Menu, redes sociais e onde me apresento.
 ![home](https://user-images.githubusercontent.com/89871141/145527325-e4b1ab63-a099-4732-9507-0f7722cc902c.png)
 
 
