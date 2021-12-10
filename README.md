@@ -4,7 +4,8 @@ Link para download do arquivo para o plugin all-in-one WP migration: https://meg
 
 
 Seção #1 - HOME - Menu e onde me apresento.
-![home](https://user-images.githubusercontent.com/89871141/145527239-03c63c28-6a1f-4026-82e6-db54022b2229.png)
+![home](https://user-images.githubusercontent.com/89871141/145527325-e4b1ab63-a099-4732-9507-0f7722cc902c.png)
+
 
 Seção #2 - PROJETOS - Onde mostro meus projetos já feitos, com uma pequena explicação de cada um.
 ![projetos](https://user-images.githubusercontent.com/89871141/144515526-da2401b8-6fa4-453c-b2a3-8e7f6ffae0ab.png)
