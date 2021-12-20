@@ -2,7 +2,7 @@
 
 LINK DO SITE: http://maria-eduarda.soukick.ml/
 
-Link para download do arquivo para o plugin all-in-one WP migration: https://mega.nz/file/ZpYjzKbb#y6wgkmYLXvq30vCDBDS_LJQk22FkkhRpo_kkT1C957U
+Link para download do arquivo para o plugin all-in-one WP migration: https://mega.nz/file/k0ZxlIxa#jUdFsVDD4T04P57nZP0eDKlnABq_JBR1SUUxR5KF60U
 
 
 Seção #1 - HOME - Menu, redes sociais e onde me apresento.
